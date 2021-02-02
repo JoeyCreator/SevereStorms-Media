@@ -206,3 +206,7 @@ a#wx {
     font-size: 2em;
   }
 }
+
+#ls {
+  font-weight: bold;
+}
