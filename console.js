@@ -1,3 +1,9 @@
+/**
+ * @author Joey Cadieux <joeycadieux161@gmail.com>
+ */
+
+
+
 var cssRule =
     "color: rgb(249, 162, 34);" +
     "font-size: 60px;" +
