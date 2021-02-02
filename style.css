@@ -185,6 +185,11 @@ header .logo
   color: #03a9f4; 
 }
 
+a#wx {
+  color: red;
+  background: #111;
+}
+
 @media (max-width: 991px)
 {
   .showcase,
