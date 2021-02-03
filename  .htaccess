@@ -1,4 +1,0 @@
-//Block users by IP
-order allow,deny
-deny from 70.26.205.250
-allow from 
