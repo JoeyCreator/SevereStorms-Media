@@ -1,9 +1,9 @@
 ---
 name: Bug report
 about: Create a report to help us improve
-title: ''
-labels: ''
-assignees: ''
+title: 'Severe StormsMedia'
+labels: 'Bug, Documentation, Issues'
+assignees: 'JoeyCreator'
 
 ---
 
